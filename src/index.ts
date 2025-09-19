@@ -1,5 +1,5 @@
 import WhatIF from "./components/WhatIF";
 
-export default {
+export  {
   WhatIF,
 };
