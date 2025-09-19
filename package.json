@@ -10,7 +10,7 @@
     "rollup": "rollup -c --bundleConfigAsCjs"
   },
   "keywords": [
-    "vk64"
+    "vk64", "react", "typescript", "vk64-react", "whatif","whatif-react"
   ],
   "author": "Kalees V",
   "license": "ISC",
